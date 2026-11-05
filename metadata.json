@@ -1,0 +1,6 @@
+{
+  "name": "Inverza Commerce",
+  "description": "Plataforma administrativa minimalista y catálogo comercial con sincronización Google Sheets, POS y bot de ventas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
